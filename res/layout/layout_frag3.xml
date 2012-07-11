@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent" android:layout_height="fill_parent" android:orientation="vertical" >
+    <TextView android:id="@+id/textView1" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="1.2" android:text="@string/title_section1" android:gravity="center"/>
+    <LinearLayout android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="1" android:orientation="horizontal" >
+        <Button android:text="@string/B200" android:id="@+id/b200" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="1" android:layout_marginTop="5dp" android:layout_marginLeft="5dp" android:onClick="onClick"/>
+        <Button android:text="@string/B201" android:id="@+id/b201" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="1" android:layout_marginTop="5dp" android:layout_marginLeft="5dp" android:onClick="onClick"/>
+        <Button android:text="@string/B202" android:id="@+id/b202" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="1" android:layout_marginTop="5dp" android:layout_marginLeft="5dp" android:onClick="onClick"/>
+        <Button android:text="@string/B203" android:id="@+id/b203" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="1" android:layout_marginTop="5dp" android:layout_marginLeft="5dp" android:onClick="onClick" android:layout_marginRight="5dp"/>
+    </LinearLayout>
+    <LinearLayout android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="1" android:orientation="horizontal" >
+		<Button android:text="@string/B210" android:id="@+id/b210" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="1" android:layout_marginTop="5dp" android:layout_marginLeft="5dp" android:onClick="onClick"/>
+        <Button android:text="@string/B211" android:id="@+id/b211" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="1" android:layout_marginTop="5dp" android:layout_marginLeft="5dp" android:onClick="onClick"/>
+        <Button android:text="@string/B212" android:id="@+id/b212" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="1" android:layout_marginTop="5dp" android:layout_marginLeft="5dp" android:onClick="onClick"/>
+        <Button android:text="@string/B213" android:id="@+id/b213" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="1" android:layout_marginTop="5dp" android:layout_marginLeft="5dp" android:onClick="onClick" android:layout_marginRight="5dp"/>        
+    </LinearLayout>
+    <LinearLayout android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="1" android:orientation="horizontal" >
+        <Button android:text="@string/B220" android:id="@+id/b220" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="1" android:layout_marginTop="5dp" android:layout_marginLeft="5dp" android:onClick="onClick"/>
+        <Button android:text="@string/B221" android:id="@+id/b221" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="1" android:layout_marginTop="5dp" android:layout_marginLeft="5dp" android:onClick="onClick"/>
+        <Button android:text="@string/B222" android:id="@+id/b222" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="1" android:layout_marginTop="5dp" android:layout_marginLeft="5dp" android:onClick="onClick"/>
+        <Button android:text="@string/B223" android:id="@+id/b223" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="1" android:layout_marginTop="5dp" android:layout_marginLeft="5dp" android:onClick="onClick" android:layout_marginRight="5dp"/>
+    </LinearLayout>
+    <LinearLayout android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="1" android:orientation="horizontal" android:layout_marginBottom="5dp">
+        <Button android:text="@string/B230" android:id="@+id/b230" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="1" android:layout_marginTop="5dp" android:layout_marginLeft="5dp" android:onClick="onClick"/>
+        <Button android:text="@string/B231" android:id="@+id/b231" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="1" android:layout_marginTop="5dp" android:layout_marginLeft="5dp" android:onClick="onClick"/>
+        <Button android:text="@string/B232" android:id="@+id/b232" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="1" android:layout_marginTop="5dp" android:layout_marginLeft="5dp" android:onClick="onClick"/>
+        <Button android:text="@string/B233" android:id="@+id/b233" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="1" android:layout_marginTop="5dp" android:layout_marginLeft="5dp" android:onClick="onClick" android:layout_marginRight="5dp"/>
+    </LinearLayout>    
+</LinearLayout>

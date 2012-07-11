@@ -1,0 +1,66 @@
+<resources>
+
+    <string name="app_name">SR-AdRobot</string>
+    <string name="title_section3">Extra Actions II            </string>
+    <string name="title_section2">Extra Actions I             </string>
+    <string name="title_section1">Main Actions                </string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_uiscreen">SR-AdRobot</string>
+    
+    <string name="B000">Btn</string>
+    <string name="B001">Btn</string>
+    <string name="B002">Btn</string>
+    <string name="B003">Btn</string>
+	<string name="B010">Btn</string>
+    <string name="B011">Btn</string>
+    <string name="B012">Btn</string>
+    <string name="B013">Btn</string>
+    <string name="B020">Btn</string>
+    <string name="B021">Btn</string>
+    <string name="B022">Btn</string>
+    <string name="B023">Btn</string>
+    <string name="B030">Btn</string>
+    <string name="B031">Btn</string>
+    <string name="B032">Btn</string>
+    <string name="B033">Btn</string>
+    
+    <string name="B100">Btn</string>
+    <string name="B101">Btn</string>
+    <string name="B102">Btn</string>
+    <string name="B103">Btn</string>
+	<string name="B110">Btn</string>
+    <string name="B111">Btn</string>
+    <string name="B112">Btn</string>
+    <string name="B113">Btn</string>
+    <string name="B120">Btn</string>
+    <string name="B121">Btn</string>
+    <string name="B122">Btn</string>
+    <string name="B123">Btn</string>
+    <string name="B130">Btn</string>
+    <string name="B131">Btn</string>
+    <string name="B132">Btn</string>
+    <string name="B133">Btn</string>
+    
+    <string name="B200">Btn</string>
+    <string name="B201">Btn</string>
+    <string name="B202">Btn</string>
+    <string name="B203">Btn</string>
+	<string name="B210">Btn</string>
+    <string name="B211">Btn</string>
+    <string name="B212">Btn</string>
+    <string name="B213">Btn</string>
+    <string name="B220">Btn</string>
+    <string name="B221">Btn</string>
+    <string name="B222">Btn</string>
+    <string name="B223">Btn</string>
+    <string name="B230">Btn</string>
+    <string name="B231">Btn</string>
+    <string name="B232">Btn</string>
+    <string name="B233">Btn</string>    
+    
+    <string name="iptext">Enter the root address:</string>
+    <string name="save">Save</string>
+    
+    
+</resources>
